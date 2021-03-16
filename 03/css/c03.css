@@ -48,6 +48,10 @@ p + h2 {
 
 /* черная панель в правой части страницы */
 
+#my_style {
+  color: red;
+}
+
 #info {
   background-color: #1e1b1e;
   color: #fff;
